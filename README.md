@@ -1,2 +1,2 @@
 # OCR---Extract-Text
-My project employs computer vision and pytesseract for OCR, extracting text from images. By leveraging advanced algorithms and pytesseract library, it accurately extracts text from various image sources. Simplify data extraction and enhance productivity with our OCR-based text extraction system.
+My project focuses on OCR (Optical Character Recognition) and utilizes computer vision techniques along with the pytesseract library. It extracts text from images with precision and accuracy. By combining the power of computer vision and pytesseract, our project simplifies the process of extracting text from images, enabling efficient data analysis and management.
